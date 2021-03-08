@@ -25,7 +25,7 @@ body {
 /* 헤더 */
 
 header {
-    background-image: url(/assets/img/top4.jpg);
+    background-image: url(../assets/img/top4.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
